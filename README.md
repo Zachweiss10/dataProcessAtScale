@@ -1,5 +1,5 @@
-Data Processing At Scale:
-Tools used Spark/NoSQL/SQL/SCALA
+<strong>Data Processing At Scale:</strong>
+<br>Tools used Spark/NoSQL/SQL/SCALA</br>
 
 This is from coursework completed through the masters of computer science at ASU
 
